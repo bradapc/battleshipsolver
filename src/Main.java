@@ -1,3 +1,5 @@
+//Set probability --> make array of possibilities, random selection of which for equal possibilities
+
 public class Main {
     static int[][] gameBoard = {
             {0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
